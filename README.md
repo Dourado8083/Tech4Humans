@@ -1,5 +1,4 @@
 # Tech4Humans
-# Teste---Tech4Humans
 <h2>Proposta</h2>
 <p>Desenvolver uma aplicação web onde o frontend seja em REACT JS, as APIs do backend
 sejam em Node JS e o banco de dados PostgreSQL. A aplicação consistirá somente de uma
